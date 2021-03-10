@@ -2,6 +2,9 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About  my name main </router-link>
+    <div>
+      添加了maxin
+    </div>
   </div>
   <router-view/>
 </template>
