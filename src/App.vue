@@ -5,6 +5,9 @@
     <div>
       添加了maxin
     </div>
+    <div>
+      2021-4-25日
+    </div>
   </div>
   <router-view/>
 </template>
